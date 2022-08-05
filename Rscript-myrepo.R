@@ -8,3 +8,4 @@ dta <- read.csv("C:/users/80745ghu/OneDrive - Erasmus University Rotterdam/Docum
 
 
 head(dta)
+tail(dta) #from GitHub
